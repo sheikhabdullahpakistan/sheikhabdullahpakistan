@@ -1,4 +1,4 @@
-![banner](https://github.com/sheikhabdullahpakistan/bio/blob/main/banner.png)
+![banner](https://github.com/sheikhabdullahpakistan/sheikhabdullahpakistan/blob/main/banner.png)
 
 # ABOUT ME
 
