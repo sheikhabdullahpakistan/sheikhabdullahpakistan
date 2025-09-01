@@ -1,16 +1,30 @@
-## Hi there 👋
+![banner](https://github.com/sheikhabdullahpakistan/bio/blob/main/banner.png)
 
-<!--
-**sheikhabdullahpakistan/sheikhabdullahpakistan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ABOUT ME
 
-Here are some ideas to get you started:
+30 / September / 2008
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+Studying from Cambridge GCSE O & A Level
+> - IT / Computer Science / Software Engineering
+
+### SKILLS
+
+- Customer Support & Telecomunication
+- Digital Marketing & Advertising
+- Microsoft Office
+- Blogging
+- Data Entry
+- HTML
+- Python
+
+## LANGUAGES
+
+- English
+- Urdu
+
+### SOCIALS
+
+- [LinkedIn](https://www.linkedin.com/in/sheikhabdullahpakistan) = @sheikhabdullahpakistan
+- Whatsapp = +92 3323081886
