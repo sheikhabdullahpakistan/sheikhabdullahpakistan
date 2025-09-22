@@ -15,6 +15,8 @@ Studying from Cambridge GCSE O & A Level
 - [LinkedIn](https://www.linkedin.com/in/sheikhabdullahpakistan) = @sheikhabdullahpakistan
 - Whatsapp = +92 3323081886
 
+# OTHERS
+
 ### SERVICES
 
 - Customer Support
@@ -55,7 +57,7 @@ Sceptre College ( Cambridge A Levels )
 > - Grade: AS / First Year
 > - `Studying Computer Science and Mathematics, on a 100% Unconditional Scholarship`
 > - `Taking these ECA's = Coding/Programming, Graphic Design & Web Development, Advertising & Digital Marketing`
-> - `[WEBSITE](https://sceptrecollege.edu.pk/)
+> - [WEBSITE](https://sceptrecollege.edu.pk/)
 > - ADDRESS = Karachi, Clifton Block 9
 > - NUMBER = +92 3092901631
 > - EMAIL = contact@sceptrecollege.edu.pk
@@ -72,7 +74,7 @@ Sceptre College ( Cambridge A Levels )
 - HTML
 - Python
 
-## LANGUAGES
+### LANGUAGES
 
 - English
 - Urdu
