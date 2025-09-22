@@ -26,7 +26,6 @@ Programming • Web-Development • Database-Development • Software-developmen
 ### EDUCATION
 
 DHACSS Seaview Campus ( Cambridge GCSE O Levels )
-> - Pre-Engineering
 > - Aug 2014 - Aug 2025
 > - Grade: Graduated
 > - `Studied Computer Science, Mathematics & Additional Mathematics`
@@ -45,11 +44,11 @@ DHACSS Seaview Campus ( Cambridge GCSE O Levels )
 <br>
 
 Sceptre College ( Cambridge A Levels )
-> - Computer Software Engineering
 > - Aug 2025 - Aug 2027
 > - Grade: AS / First Year
 > - `Studying Computer Science and Mathematics, on a 100% Unconditional Scholarship`
-> - `Taking these ECA's = Coding/Programming, Graphic Design & Web Development, Advertising & Digital Marketing`
+> - `Taking these ECA's = Coding/Programming; Graphic Design; Web Development; Advertising & Digital Marketing`
+> - `Member of the Science & Tech Society`
 > - [WEBSITE](https://sceptrecollege.edu.pk/)
 > - ADDRESS = Karachi, Clifton Block 9
 > - NUMBER = +92 3092901631
