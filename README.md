@@ -7,7 +7,10 @@
 <br>
 
 Studying from Cambridge GCSE O & A Level
-> IT / Computer Science / Software Engineering
+
+<br>
+
+IT / Computer Science / Software Engineering
 
 # SOCIALS
 
