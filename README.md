@@ -21,7 +21,7 @@ IT / Computer Science / Software Engineering
 # OTHERS
 
 ### SERVICES
-• Programming • Web-Development • Database-Development • Software-development • App-Development • Advertising • Digital Marketing • Blogging • Customer Support • Tele-Communications • Tele-Marketing
+Programming • Web-Development • Database-Development • Software-development • App-Development • Advertising • Digital Marketing • Blogging • Customer Support • Tele-Communications • Tele-Marketing
 
 ### EDUCATION
 
