@@ -69,13 +69,15 @@ Sceptre College ( Cambridge A Levels )
 
 ### SKILLS
 
-- Customer Support & Telecomunication
-- Digital Marketing & Advertising
+- Python
+- HTML
+- Git & GitHub
+- ChatGPT & Gemini
+- Batch
 - Microsoft Office
+- Digital Marketing & Advertising
 - Blogging
 - Data Entry
-- HTML
-- Python
 
 ### LANGUAGES
 
