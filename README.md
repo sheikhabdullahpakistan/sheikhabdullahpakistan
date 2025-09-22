@@ -31,11 +31,9 @@ Studying from Cambridge GCSE O & A Level
 ### EDUCATION
 
 DHACSS Seaview Campus ( Cambridge GCSE O Levels )
-> Pre-Engineering
-<br>
-> Aug 2014 - Aug 2025
-<br>
-> Grade: Graduated
+> - Pre-Engineering
+> - Aug 2014 - Aug 2025
+> - Grade: Graduated
 > - `Studied Computer Science, Mathematics & Additional Mathematics`
 > - `A in Computer Science ( 2210 ) on my 2025 May/June Cambridge GCSE O Level Exam, which is 85% in IBCC Equivalence`
 > - `B in Mathematics Syllabus D ( 4024 ) on my 2025 May/June Cambridge GCSE O Level Exam, which is 75% in IBCC Equivalence`
@@ -52,11 +50,9 @@ DHACSS Seaview Campus ( Cambridge GCSE O Levels )
 <br>
 
 Sceptre College ( Cambridge A Levels )
-> Computer Software Engineering
-<br>
-> Aug 2025 - Aug 2027
-<br>
-> Grade: AS / First Year
+> - Computer Software Engineering
+> - Aug 2025 - Aug 2027
+> - Grade: AS / First Year
 > - `Studying Computer Science and Mathematics, on a 100% Unconditional Scholarship`
 > - `Taking these ECA's = Coding/Programming, Graphic Design & Web Development, Advertising & Digital Marketing`
 > - `[WEBSITE](https://sceptrecollege.edu.pk/)
