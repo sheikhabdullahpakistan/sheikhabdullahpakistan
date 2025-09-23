@@ -2,59 +2,67 @@
 
 # ABOUT ME
 
+IT / Computer Science / Software Engineering
+
+<br>
+
+sheikhabdullah2145@gmail.com
+
+<br>
+
++92 3323081886
+
+<br>
+
 30 / September / 2008
 
 <br>
 
-Studying from Cambridge GCSE O & A Level
-
-<br>
-
-IT / Computer Science / Software Engineering
+Pakistan, Sindh, Karachi, Defence Phase 5, Tauheed Commercial 33rd Street
 
 # SOCIALS
 
 - [CV / Resume](https://github.com/sheikhabdullahpakistan/sheikhabdullahpakistan/blob/main/cv.pdf)
 - [LinkedIn](https://www.linkedin.com/in/sheikhabdullahpakistan) = @sheikhabdullahpakistan
-- Whatsapp = +92 3323081886
+- WhatsApp = +92 3323081886
 
 # OTHERS
 
 ### SERVICES
-Programming • Web-Development • Database-Development • Software-development • App-Development • Advertising • Digital Marketing • Blogging • Customer Support • Tele-Communications • Tele-Marketing
+Programming • Web-Development • Database-Development • Software-development • App-Development • Advertising • Digital Marketing • Blogging • Customer Support • Tele-Communications • Tele-Marketing • Data Entry
 
 ### EDUCATION
 
 DHACSS Seaview Campus ( Cambridge GCSE O Levels )
-> - Aug 2014 - Aug 2025
+> - August 2014 - August 2025
 > - Grade: Graduated
 > - `Studied Computer Science, Mathematics & Additional Mathematics`
-> - `A in Computer Science ( 2210 ) on my 2025 May/June Cambridge GCSE O Level Exam, which is 85% in IBCC Equivalence`
-> - `B in Mathematics Syllabus D ( 4024 ) on my 2025 May/June Cambridge GCSE O Level Exam, which is 75% in IBCC Equivalence`
-> - `Overall CIE GCSE O Levels Grades, converted into IBCC Equivalence is = 81%`
-> - [2024 CIE GCSE O Level Results](https://github.com/sheikhabdullahpakistan/sheikhabdullahpakistan/blob/main/cie24.pdf)
-> - [2025 CIE GCSE O Level Results](https://github.com/sheikhabdullahpakistan/sheikhabdullahpakistan/blob/main/cie25.pdf)
-> - [WEBSITE](https://seaviewcampus.dhacsskarachi.edu.pk/)
-> - ADDRESS = Karachi, DHA Defence Phase 5
-> - NUMBER = (021) 35854867 / (021) 35845361
-> - EMAIL = dhaseaview@hotmail.com
-> - [INSTAGRAM](https://www.instagram.com/dhacss_seaview) = @dhacss_seaview
-> - [FACEBOOK](https://www.facebook.com/dhacssseaviewcampus) = @dhacssseaviewcampus
+> - `A in Computer Science ( 2210 ) on my 2025 May / June Cambridge GCSE O Levels Exam, which is 85% in IBCC Equivalence`
+> - `B in Mathematics Syllabus D ( 4024 ) on my 2025 May / June Cambridge GCSE O Levels Exam, which is 75% in IBCC Equivalence`
+> - `Overall Cambridge GCSE O Levels Grades of 2024 and 2025, converted into IBCC Equivalence is 81%`
+> - [2024 Cambridge GCSE O Levels Results](https://github.com/sheikhabdullahpakistan/sheikhabdullahpakistan/blob/main/cie24.pdf)
+> - [2025 Cambridge GCSE O Levels Results](https://github.com/sheikhabdullahpakistan/sheikhabdullahpakistan/blob/main/cie25.pdf)
+> - [Website](https://seaviewcampus.dhacsskarachi.edu.pk/)
+> - Address = Karachi, DHA Defence Phase 5
+> - Number = (021) 35854867 / (021) 35845361
+> - Email = dhaseaview@hotmail.com
+> - [Instagram](https://www.instagram.com/dhacss_seaview) = @dhacss_seaview
+> - [Facebook](https://www.facebook.com/dhacssseaviewcampus) = @dhacssseaviewcampus
 
 <br>
 
 Sceptre College ( Cambridge A Levels )
-> - Aug 2025 - Aug 2027
+> - August 2025 - August 2027
 > - Grade: AS / First Year
 > - `Studying Computer Science and Mathematics, on a 100% Unconditional Scholarship`
-> - `Taking these ECA's = Coding/Programming; Graphic Design; Web Development; Advertising & Digital Marketing`
-> - `Member of the Science & Tech Society`
-> - [WEBSITE](https://sceptrecollege.edu.pk/)
-> - ADDRESS = Karachi, Clifton Block 9
-> - NUMBER = +92 3092901631
-> - EMAIL = contact@sceptrecollege.edu.pk
-> - [INSTAGRAM](https://www.instagram.com/sceptrecollege) = @sceptrecollege
-> - [FACEBOOK](https://www.facebook.com/sceptrecollege) = @sceptrecollege
+> - `Taking these ECA's = Programming; Graphic Design; Web-Development; Advertising & Digital Marketing`
+> - `Member of the Science & Technology Society`
+> - [Website](https://sceptrecollege.edu.pk/)
+> - Address = Karachi, Clifton Block 9
+> - Number = +92 3092901631
+> - Email = contact@sceptrecollege.edu.pk
+> - [Instagram](https://www.instagram.com/sceptrecollege) = @sceptrecollege
+> - [Facebook](https://www.facebook.com/sceptrecollege) = @sceptrecollege
 
 ### SKILLS
 
