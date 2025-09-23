@@ -58,7 +58,6 @@ Sceptre College ( Cambridge A Levels )
 - HTML
 - Git & GitHub
 - ChatGPT & Gemini
-- Batch
 - Microsoft Office
 - Digital Marketing & Advertising
 - Blogging
@@ -68,3 +67,13 @@ Sceptre College ( Cambridge A Levels )
 
 - English
 - Urdu
+
+### REFRENCES
+
+Waseem Taj ( MATHS )
+> +92 3333255425
+
+<br>
+
+Zafar Ali Khan ( CS )
+> +92 3111222925
