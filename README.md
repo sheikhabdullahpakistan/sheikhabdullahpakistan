@@ -2,23 +2,11 @@
 
 # ABOUT ME
 
-IT / Computer Science / Software Engineering
-
-<br>
-
-sheikhabdullah2145@gmail.com
-
-<br>
-
-+92 3323081886
-
-<br>
-
-30 / September / 2008
-
-<br>
-
-Pakistan, Sindh, Karachi, Defence Phase 5, Tauheed Commercial 33rd Street
+- IT / Computer Science / Software Engineering
+- sheikhabdullah2145@gmail.com
+- +92 3323081886
+- 30 / September / 2008
+- Pakistan, Sindh, Karachi, Defence Phase 5, Tauheed Commercial 33rd Street
 
 # SOCIALS
 
