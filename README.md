@@ -10,11 +10,11 @@
 
 # SOCIALS
 
-- [CV / Resume](https://github.com/sheikhabdullahpakistan/sheikhabdullahpakistan/blob/main/cv.pdf)
 - [LinkedIn](https://www.linkedin.com/in/sheikhabdullahpakistan) = @sheikhabdullahpakistan
+- [CV / Resume](https://github.com/sheikhabdullahpakistan/sheikhabdullahpakistan/blob/main/cv.pdf)
 - WhatsApp = +92 3323081886
 
-# OTHERS
+# LEARN MORE
 
 ### SERVICES
 Programming • Web-Development • Database-Development • Software-development • App-Development • Advertising • Digital Marketing • Blogging • Customer Support • Tele-Communications • Tele-Marketing • Data Entry
