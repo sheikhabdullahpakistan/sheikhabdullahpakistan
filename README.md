@@ -70,10 +70,10 @@ Sceptre College ( Cambridge A Levels )
 
 ### REFRENCES
 
-Waseem Taj ( MATHS )
+Waseem Taj
 > +92 3333255425
 
 <br>
 
-Zafar Ali Khan ( CS )
+Zafar Ali Khan
 > +92 3111222925
