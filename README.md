@@ -43,7 +43,7 @@ Sceptre College ( Cambridge A Levels )
 > - August 2025 - August 2027
 > - Grade: AS / First Year
 > - `Studying Computer Science and Mathematics, on a 100% Unconditional Scholarship`
-> - `Taking these ECA's = Programming; Graphic Design; Web-Development; Advertising & Digital Marketing`
+> - `ECA's = Programming; Graphic Design; Web-Development; Advertising & Digital Marketing`
 > - `Member of the Science & Technology Society`
 > - [Website](https://sceptrecollege.edu.pk/)
 > - Address = Karachi, Clifton Block 9
